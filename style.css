@@ -1,0 +1,189 @@
+.linha-vertical{
+    border-left: 1px solid gray;
+    height: 435px;
+    margin: 0 5px;
+}
+
+hr{
+    border: 1px solid gray;
+}
+
+img{
+    height: 160px;
+}
+
+body{
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    padding-inline-start: 0;
+    margin: 5px 5px 5px 0;
+}
+
+header{
+    display: flex;
+    gap: 174px;
+}
+
+.header1{
+    display: flex;
+    height: 40px;
+}
+
+.header1 p{
+    margin: 0;
+    padding: 0;
+}
+
+.header2{
+    align-items: end;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.header2 p{
+    margin: 0;
+    padding: 0;
+}
+
+.linha-horizontal{
+    border-top: 1px solid gray;
+    display: flex;
+}
+
+.pagina-principal{
+    display: flex;
+    flex-direction: column; 
+}
+
+.main-page h2{
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
+
+.main-page #p{
+    margin: 0;
+    padding: 0;
+}
+
+a:any-link{
+    color: darkblue;
+}
+
+.articles{
+    text-align: center;
+    background-color: #ffe3e267;
+    border: #FFE3E2 solid 2px;
+    padding-bottom: 10px;
+}
+
+.articles h3{
+    background-color: #FFE3E2;
+    margin: 0;
+    padding: 4px 0;
+    margin-bottom: 10px;
+}
+
+.articles p{
+    margin: 0;
+    padding: 0;
+}
+
+.encyclopedia{
+    padding: 0;
+    padding-bottom: 15px;
+    margin: 10px 0 0 0;
+    width: 400px;
+    background-color: #e0dfff67;
+    border: #E0DFFF solid 2px;
+}
+
+.encyclopedia h3{
+    text-align: center;
+    background-color: #E0DFFF;
+    margin: 0;
+    padding: 4px 0;
+}
+
+.encyclopedia h4{
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+
+.encyclopedia p{
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.bloco2{
+    display: flex;
+    gap: 5px;
+    width: fit-content;
+}
+
+.community{
+    padding: 0;
+    padding-bottom: 15px;
+    margin: 10px 0 0 0;
+    width: 400px;
+    background-color: #f9f9b267;
+    border: #f9f9b2 solid 2px;
+}
+
+.community h3{
+    text-align: center;
+    margin: 0;
+    padding: 4px 0;
+    background-color: #f9f9b2;
+}
+
+.community h4{
+    margin-bottom: 0;
+    padding-left: 10px;  
+}
+
+.community p{
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.community .small{
+    font-size: small;
+}
+
+main .linha-horizontal{
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+}
+
+main p{
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+footer p{
+    margin: 0;
+    padding: 0;
+}
+
+.small{
+    font-size: small;
+}
