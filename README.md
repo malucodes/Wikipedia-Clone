@@ -1,5 +1,8 @@
 # ✦ Wikipedia 2004 Clone | Arqueologia Digital
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![Aesthetics](https://img.shields.io/badge/Aesthetics-Web%201.0%20%2F%202004-lightgrey)
+
 Bem-vindo ao repositório do **Wikipedia 2004 Clone**! Este projeto é um mergulho na história da internet, recriando a interface clássica e minimalista da maior enciclopédia livre do mundo exatamente como ela se parecia em meados de 2004. 
 
 ---
